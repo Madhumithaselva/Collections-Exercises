@@ -14,12 +14,9 @@ public class Ex1WeekDayList {
         weekDay.add("Thursday");
         weekDay.add("Friday");
         weekDay.add("Saturday");
-        //System.out.println(weekDay);
 
         System.out.println("Days of the week are:");
+        System.out.println(weekDay);
 
-        for (String day : weekDay){
-            System.out.println(day);
-        }
     }
 }
