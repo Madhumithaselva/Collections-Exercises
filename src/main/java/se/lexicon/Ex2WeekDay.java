@@ -16,7 +16,6 @@ public class Ex2WeekDay {
             weekDay.add("Saturday");
 
             //Display the days of the week separately
-
             System.out.println("Days of the week are:");
 
             for (String day : weekDay){
