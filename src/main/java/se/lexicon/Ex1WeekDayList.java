@@ -2,7 +2,7 @@ package se.lexicon;
 import java.util.*;
 
 public class Ex1WeekDayList {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         weekDayList();
     }
     public static void weekDayList(){

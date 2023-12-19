@@ -2,9 +2,9 @@ package se.lexicon;
 import java.util.*;
 
 public class Ex2WeekDay {
-            public static void main(String[] args){
-            weekDayList();
-        }
+            public static void main(String[] args) {
+                weekDayList();
+            }
         public static void weekDayList(){
             ArrayList<String> weekDay = new ArrayList<>();
             weekDay.add("Sunday");
